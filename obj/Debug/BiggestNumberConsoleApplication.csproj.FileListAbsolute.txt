@@ -1,0 +1,6 @@
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\bin\Debug\BiggestNumberConsoleApplication.exe.config
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\obj\Debug\BiggestNumberConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\bin\Debug\BiggestNumberConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\bin\Debug\BiggestNumberConsoleApplication.pdb
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\obj\Debug\BiggestNumberConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\BiggestNumberConsoleApplication\BiggestNumberConsoleApplication\obj\Debug\BiggestNumberConsoleApplication.pdb
